@@ -1,0 +1,4 @@
+Brief Introduction About Myself
+
+My name is [Selorm Atsu Dzikunu]. I am currently learning Git and GitHub as part of my development journey.
+I am interested in technology and enjoy learning how systems and software work.
